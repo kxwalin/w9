@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">w9</string>
+    <string name="et_url">กรุณาป้อน URL</string>
+    <string name="btn_search">ไป</string>
+</resources>
